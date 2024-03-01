@@ -2,4 +2,6 @@ Stock,Expected Return,Variance,Covariance_AB,Covariance_AC,Covariance_BC
     A,0.10,0.02,0.001,0.002,0.0015
     B,0.12,0.03,,,
     C,0.08,0.015,,,
+    D,0.08,0.015,,,
+    E,0.08,0.015,,,
     
